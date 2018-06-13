@@ -1,6 +1,6 @@
 name: PurePermsShop
 version: "1.0"
-author: ningen
+author: ningen,djdisodo
 main: purepermsshop\PurePermsShop
 api: 
 - 3.0.0-ALPHA12
