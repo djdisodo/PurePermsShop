@@ -1,0 +1,10 @@
+name: PurePermsShop
+version: "1.0"
+author: ningen
+main: purepermsshop\PurePermsShop
+api: 
+- 3.0.0-ALPHA12
+permissions:
+    purepermsshop:
+        description: able to mod/remove purepermsshop
+        default: op
